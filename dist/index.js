@@ -51,7 +51,7 @@ var ENV = {
   */
   I18N: null,
   // 语言
-  LANGUAGE: "zh-cn",
+  LANGUAGE: "en-us",
   // DEBUG 专用
   // 调试模式
   DEBUG_MODE: false,
